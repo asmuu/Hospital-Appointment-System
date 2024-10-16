@@ -1,1 +1,1 @@
-# Hospital-Appointment-System
+The Doctor's Appointment Application is a Spring Boot-based system designed to facilitate doctor-patient appointments. It offers a set of RESTful API endpoints for booking and managing appointments, user authentication, and doctor profiles.
